@@ -1,1 +1,1 @@
-# Klasifikasi-RockPaperScissors
+# Klasifikasi RockPaperScissors
